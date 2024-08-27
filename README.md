@@ -41,3 +41,6 @@ https://felipemauro.github.io/decodificador-alura/
 Badge pela Conclusão do Desafio
 ---
 
+<p align="center" >
+     <img width="600" heigth="600" src="img/Badge-Challenge.png">
+</p>

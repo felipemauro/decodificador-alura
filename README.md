@@ -22,8 +22,8 @@ As "chaves" de criptografia utilizadas são:<br>
 
 Funcionalidade:
 ---
-- Funciona apenas com letras minúsculas
-- Não devem ser utilizados letras com acentos nem caracteres especiais, por exlemplo: ponto, vírgula, hastag, arroba, entre outros
+- Funciona com letras maiúsculas e minúsculas
+- Aceita letras com acentos e caracteres especiais, por exlemplo: ponto, vírgula, hastag, arroba, entre outros.
 - É possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
 Por exemplo:
